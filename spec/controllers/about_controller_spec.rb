@@ -1,4 +1,4 @@
-require 'spec_helper'
+gitrequire 'spec_helper'
 
 describe AboutController do
 
